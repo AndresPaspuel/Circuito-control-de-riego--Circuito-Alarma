@@ -183,3 +183,37 @@ Para utilizar una las raspberry necesitamos la las librerías siguientes antes d
 -import time: sirve para intervalos de tiempo son números de punto flotante en unidades de segundos.
 
 -import RPi.GPIO as GPIO: tenemos que importar la librería que nos permite manejar los GPIO.
+
+10. APORTACIONES
+
+En el sistema de riego se realizó de otra manera de ingresar los datos  en otras palabras  los datos  son ingresados por consola.
+
+11.CONCLUSIONES
+
+1.Con el procedimiento correcto, se pudo conectar cada parte que deseábamos y software (Lenguaje de programación Python) para realizar una simulación de un circuito de riego puede marcar la pauta a la  implementación en un proyecto real. 
+
+2.Se ha logrado que la simulación funcione con efectividad, adquiriendo así conocimiento sobre el tema y la comprensión del funcionamiento de este sistema, agregando que las simulaciones que realiza son aleatorias y así poder observar como es que se comportaría en situaciones reales.
+
+3.Cabe recalcar que lo bueno del desarrollo de la tecnología, es que existe una diversidad de plataformas que operan con micro controladores disponibles para la computación a nivel físico (hardware). Todas estas herramientas se organizan en paquetes fáciles de usar para minimizar el trabajo del desarrollo a nivel de programación (software).
+
+12.RECOMENDACIONES
+
+1.Se recomienda hacer el uso correcto de los pines GPIO de la raspberry Pi, pues cada uno está destinado para una función determinada, pues si no se realiza el uso adecuado de los mismos, podríamos tener daños como que no nos funcione el circuito.
+
+2.Antes de empezar a utilizar conceptos POO se debe informar y plantear de forma clara el objetivo del proyecto, para facilitar así el uso del mismo, sin tener que ser un experto en el tema.
+
+13.CRONOGRAMA
+
+![image](https://user-images.githubusercontent.com/63418581/92410777-d1cc1000-f10a-11ea-8dbc-9f68e84b5bd8.png)
+
+14.BIBLIOGRAFÍA
+
+Aguilar, M. F. (2014). Programación en Python en la. Obtenido de http://sagitario.itmorelia.edu.mx/mfraga/materias/soemb/python.pdf
+
+Duque, R. G. (2009). Python para todos. España. Obtenido de http://www.utic.edu.py/citil/images/Manuales/Python_para_todos.pdf
+
+OLIPHANT, T. E. (15 de 05 de 2007). Python for Scientific Computing. CiSE Computational Physics.
+
+Rossum, G. (1995). Manual de referencia de Python. CWI (Centro de Matemáticas e Informática).
+
+Chazallet, S. (2016). Python 3: los fundamentos del lenguaje. Ediciones ENI.
