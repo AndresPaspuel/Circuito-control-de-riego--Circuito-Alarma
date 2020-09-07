@@ -116,3 +116,70 @@ Python incluye muchas funciones internas, tal como printf, pero también se pued
 
 La definición de una función comienza por la palabra clave def seguida por el nombre de la función y paréntesis Los parámetros de entrada se colocan entre los paréntesis
 
+5.DIAGRAMAS
+
+![image](https://user-images.githubusercontent.com/63418581/92410421-a0067980-f109-11ea-91eb-630e86c2c3b8.png)
+
+6.LISTA DE COMPONENTES 
+
+Pines de la RASPBERRY
+Computadora 
+Lenguaje de Programación PYTHON 
+
+ 
+7. MAPA DE VARIABLES
+
+➢ import: se utiliza para importar un módulo en este caso fue time y RPi.GPIO as GPIO.
+
+➢ self :sirve para acceder a un atributo dentro del objeto (clase) en sí.
+
+➢ GPIO: son los puertos que emulan a la de una raspberry.
+
+➢ setup: se define uno de los pines como entrada o salida.
+
+➢ class: tipo de dato definido por el usuario, y la crear instancias de una clase hace relación a la creación de objetos.
+
+➢ def: función usada para crear objetos funciones definidas por el usuario
+
+➢ init: su función es establecer un estado inicial en el objeto nada más instanciarlo, es decir, inicializar los atributos.
+
+➢ input:es para introducir datos de distintos tipos desde la entrada estándar.
+
+➢ return: es el valor que nos va a devolver.
+
+➢ if/elif/else: se utiliza para condiciones que sean más de una.
+
+➢ print: es lo que se va a presentar en pantalla.
+
+➢ while: repetir la condición hasta que la misma se cumpla.
+
+8. EXPLICACIÓN DEL CÓDIGO FUENTE
+
+Para programar hay diversas opciones pero en este caso utilizaremos https://create.withcode.uk/, entrando en detalle vamos a desarrollar  nuestro programa.
+
+Nota: los que se describe a continuación cumple con los dos enunciados planteados.
+
+-sensor_S=3: asignamos los pines con los que vamos a trabajar.
+
+-GPIO.setup(sensor_S, GPIO.IN): configuramos los pines de entrada.
+
+-class riego: definimos nuestra clase y posteriormente nuestros atributos a contener.
+
+-def __init__(self,S,R,D,V): definimos nuestro constructor.
+
+-def operacion(self,S,R,D,V): se define cada función según nosotros le pongamos en nombre y la acción que esta va a realizar.
+
+-elif modo==1:
+		print("BOMBA ENCENDIDA: con restriccion")
+		print("V=1 Hay agua")
+		print("D=0 Es de NOCHE")
+
+Aquí se define como se va a presentar en pantalla el mensaje e la operación.
+
+9.  DESCRIPCIÓN DE PRERREQUISITOS Y CONFIGURACIÓN
+
+Para utilizar una las raspberry necesitamos la las librerías siguientes antes de programar:
+
+-import time: sirve para intervalos de tiempo son números de punto flotante en unidades de segundos.
+
+-import RPi.GPIO as GPIO: tenemos que importar la librería que nos permite manejar los GPIO.
