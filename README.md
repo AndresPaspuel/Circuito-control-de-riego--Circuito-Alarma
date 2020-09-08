@@ -122,7 +122,8 @@ La definición de una función comienza por la palabra clave def seguida por el 
 
 2.![image](https://user-images.githubusercontent.com/63418581/92509742-5af94a80-f1d0-11ea-8a34-e42c2364af74.png)
 
-3. ![image](https://user-images.githubusercontent.com/63418581/92512548-8f6f0580-f1d4-11ea-876d-22158b4d3fda.png)
+![VARIABLES](https://user-images.githubusercontent.com/66221550/92512578-99910400-f1d4-11ea-9cff-07f972f94e98.jpg)
+
 
 3.![image](https://user-images.githubusercontent.com/63418581/92410421-a0067980-f109-11ea-91eb-630e86c2c3b8.png)
 
