@@ -192,6 +192,10 @@ Para utilizar una las raspberry necesitamos la las librerías siguientes antes d
 
 En el sistema de riego se realizó de otra manera de ingresar los datos  en otras palabras  los datos  son ingresados por consola.
 
+Como parte de la aportación a nuetsro trabajo fue diseñar las clases en StarUML que es un programa para realizar clases con atributos y métodos que nos servirá para conocer mejor como va a estar nuestro programa.
+
+Por otro lado para que sea más visual para el usuario se a hecho un método de imprimir que trata de hacer visual el programa para el usuario en la que sale el porqué de se enciende o se apaga y las razones haciendo más comprensible para el usuario.
+
 11.CONCLUSIONES
 
 1.Con el procedimiento correcto, se pudo conectar cada parte que deseábamos y software (Lenguaje de programación Python) para realizar una simulación de un circuito de riego puede marcar la pauta a la  implementación en un proyecto real. 
