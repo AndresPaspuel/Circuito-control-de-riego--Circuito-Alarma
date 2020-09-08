@@ -118,7 +118,7 @@ La definición de una función comienza por la palabra clave def seguida por el 
 
 5.DIAGRAMAS
 
-1.![image](https://user-images.githubusercontent.com/63418581/92509064-41a3ce80-f1cf-11ea-8a66-aa6e695d17a6.png)
+![MAPA DE KA](https://user-images.githubusercontent.com/66221550/92512777-f12f6f80-f1d4-11ea-88c0-7e07970d827e.jpg)
 
 2.![image](https://user-images.githubusercontent.com/63418581/92509742-5af94a80-f1d0-11ea-8a34-e42c2364af74.png)
 
