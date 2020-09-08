@@ -118,6 +118,8 @@ La definición de una función comienza por la palabra clave def seguida por el 
 
 5.DIAGRAMAS
 
+![image](https://user-images.githubusercontent.com/63418581/92509064-41a3ce80-f1cf-11ea-8a66-aa6e695d17a6.png)
+
 ![image](https://user-images.githubusercontent.com/63418581/92410421-a0067980-f109-11ea-91eb-630e86c2c3b8.png)
 
 6.LISTA DE COMPONENTES 
